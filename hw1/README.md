@@ -64,9 +64,9 @@ int main(){
 * ### 執行結果
   - 輸入數字234
   
-  ![](https://github.com/yunchien77/ds_algorithm/blob/main/hw1/exeresult/234.png)
+    ![](https://github.com/yunchien77/ds_algorithm/blob/main/hw1/exeresult/234.png)
   
-  - 輸入數字317
-
-
-  - 輸入數字55
+  - 輸入數字317和55
+  
+    ![](https://github.com/yunchien77/ds_algorithm/blob/main/hw1/exeresult/317_and_55.png)
+  
