@@ -1,7 +1,8 @@
-# hw1
+# hw1 
 * ### 程式碼
+```c
 #include <stdio.h>
-```
+
 //convert decimal to binary
 void decimalToBinary(int decimalNum) {
     int binaryNum[8];
