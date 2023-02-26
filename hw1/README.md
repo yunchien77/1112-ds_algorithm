@@ -1,4 +1,5 @@
-# hw1 
+# HW1 將十進位數字轉換成二進位與16進位
+
 * ### 程式碼
 ```c
 #include <stdio.h>
@@ -64,3 +65,8 @@ int main(){
   - 輸入數字234
   
   ![](https://github.com/yunchien77/ds_algorithm/blob/main/hw1/exeresult/234.png)
+  
+  - 輸入數字317
+
+
+  - 輸入數字55
