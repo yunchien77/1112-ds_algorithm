@@ -62,6 +62,5 @@ int main(){
 
 * ### 執行結果
   - 輸入數字234
-
-  - 輸入數字568
-
+  
+  ![](https://github.com/yunchien77/ds_algorithm/blob/main/hw1/exeresult/234.png)
