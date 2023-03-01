@@ -123,4 +123,4 @@ if __name__ == '__main__':
   
   - 輸入數字317和55
   
-    ![](https://github.com/yunchien77/ds_algorithm/blob/main/hw1/exeresult/317_and_55_in_py.png)
+    ![](https://github.com/yunchien77/ds_algorithm/blob/main/hw1_binary_hex_converter/exeresult/317_and_55_in_py.png)
