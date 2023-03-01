@@ -64,11 +64,11 @@ int main(){
 * ### 執行結果
   - 輸入數字234
   
-    ![](https://github.com/yunchien77/ds_algorithm/blob/main/hw1/exeresult/234.png)
+    ![](https://github.com/yunchien77/ds_algorithm/blob/main/hw1_binary_hex_converter/exeresult/234.png)
   
   - 輸入數字317和55
   
-    ![](https://github.com/yunchien77/ds_algorithm/blob/main/hw1/exeresult/317_and_55.png)
+    ![](https://github.com/yunchien77/ds_algorithm/blob/main/hw1_binary_hex_converter/exeresult/317_and_55.png)
   
 
 ## language: Python
@@ -119,7 +119,7 @@ if __name__ == '__main__':
 * ### 執行結果
   - 輸入數字234
   
-    ![](https://github.com/yunchien77/ds_algorithm/blob/main/hw1/exeresult/234_in_py.png)
+    ![](https://github.com/yunchien77/ds_algorithm/blob/main/hw1_binary_hex_converter/exeresult/234_in_py.png)
   
   - 輸入數字317和55
   
