@@ -6,4 +6,5 @@
 ```
 
 * ### 執行結果
+  ![](https://github.com/yunchien77/ds_algorithm/blob/main/hw2_hash_practice/exeresult.png)
   
