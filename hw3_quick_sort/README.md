@@ -62,13 +62,13 @@ void quickSort(int arr[], int left, int right){
 * ### 執行結果
   > - 輸入長度10
 
-      - 輸入數字33 67 8 13 54 119 3 84 25 41
+    - 輸入數字33 67 8 13 54 119 3 84 25 41
   
     ![](https://github.com/yunchien77/ds_algorithm/blob/main/hw3_quick_sort/exeresult/hw3_c_result.png)
   
   > - 輸入長度15
 
-      - 輸入數字87 4 7 65 -1 90 3 22 23 71 23 12 77 11 43
+    - 輸入數字87 4 7 65 -1 90 3 22 23 71 23 12 77 11 43
   
     ![](https://github.com/yunchien77/ds_algorithm/blob/main/hw3_quick_sort/exeresult/hw3_c_result2.png)
   
@@ -132,12 +132,12 @@ if __name__ == '__main__':
 * ### 執行結果
   > - 輸入長度10
 
-      - 輸入數字33 67 8 13 54 119 3 84 25 41
+    - 輸入數字33 67 8 13 54 119 3 84 25 41
   
     ![](https://github.com/yunchien77/ds_algorithm/blob/main/hw3_quick_sort/exeresult/hw3_py_result.png)
   
   > - 輸入長度15
 
-      - 輸入數字87 4 7 65 -1 90 3 22 23 71 23 12 77 11 43
+    - 輸入數字87 4 7 65 -1 90 3 22 23 71 23 12 77 11 43
   
     ![](https://github.com/yunchien77/ds_algorithm/blob/main/hw3_quick_sort/exeresult/hw3_py_result2.png)
